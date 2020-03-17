@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaeghiom.flowerpilot.de/sitemap.xml
